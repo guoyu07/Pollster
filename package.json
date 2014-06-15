@@ -1,0 +1,19 @@
+{
+  "name": "Pollster",
+  "version": "0.0.0",
+  "description": "Quick polling with Firebase and React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willwclo/Pollster.git"
+  },
+  "author": "Will Lo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willwclo/Pollster/issues"
+  },
+  "homepage": "https://github.com/willwclo/Pollster"
+}
